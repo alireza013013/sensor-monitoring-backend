@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YTSVqcGqSW4lQHD0pD1N1ldbUfhq83HjBpP3H+oQWzk=",
+  "Source": "sensor-monitoring-backend",
+  "BasePath": "_content/sensor-monitoring-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

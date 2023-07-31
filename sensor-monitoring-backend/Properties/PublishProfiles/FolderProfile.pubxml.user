@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\RSACORPORATION\source\repos\sensor-monitoring-backend\sensor-monitoring-backend\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-11-19T10:56:00.4666088Z;True|2022-11-08T18:18:46.0748639+03:30;True|2022-11-08T17:56:02.3500866+03:30;True|2022-10-30T11:49:50.6670951+03:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
